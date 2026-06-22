@@ -1,0 +1,1664 @@
+[
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "exchange": "NASDAQ",
+    "domain": "apple.com"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "exchange": "NASDAQ",
+    "domain": "microsoft.com"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc. Class A",
+    "exchange": "NASDAQ",
+    "domain": "abc.xyz"
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc. Class C",
+    "exchange": "NASDAQ",
+    "domain": "abc.xyz"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc.",
+    "exchange": "NASDAQ",
+    "domain": "amazon.com"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "exchange": "NASDAQ",
+    "domain": "nvidia.com"
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms Inc.",
+    "exchange": "NASDAQ",
+    "domain": "meta.com"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla Inc.",
+    "exchange": "NASDAQ",
+    "domain": "tesla.com"
+  },
+  {
+    "ticker": "BRK.B",
+    "name": "Berkshire Hathaway Inc.",
+    "exchange": "NYSE",
+    "domain": "berkshirehathaway.com"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "exchange": "NASDAQ",
+    "domain": "broadcom.com"
+  },
+  {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing",
+    "exchange": "NYSE",
+    "domain": "tsmc.com"
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "exchange": "NYSE",
+    "domain": "jpmorganchase.com"
+  },
+  {
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "exchange": "NYSE",
+    "domain": "visa.com"
+  },
+  {
+    "ticker": "LLY",
+    "name": "Eli Lilly and Company",
+    "exchange": "NYSE",
+    "domain": "lilly.com"
+  },
+  {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group Incorporated",
+    "exchange": "NYSE",
+    "domain": "unitedhealthgroup.com"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart Inc.",
+    "exchange": "NYSE",
+    "domain": "walmart.com"
+  },
+  {
+    "ticker": "XOM",
+    "name": "Exxon Mobil Corporation",
+    "exchange": "NYSE",
+    "domain": "exxonmobil.com"
+  },
+  {
+    "ticker": "MA",
+    "name": "Mastercard Incorporated",
+    "exchange": "NYSE",
+    "domain": "mastercard.com"
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "exchange": "NYSE",
+    "domain": "jnj.com"
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter & Gamble Co.",
+    "exchange": "NYSE",
+    "domain": "pg.com"
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot Inc.",
+    "exchange": "NYSE",
+    "domain": "homedepot.com"
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "exchange": "NYSE",
+    "domain": "oracle.com"
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America Corporation",
+    "exchange": "NYSE",
+    "domain": "bankofamerica.com"
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola Company",
+    "exchange": "NYSE",
+    "domain": "coca-colacompany.com"
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie Inc.",
+    "exchange": "NYSE",
+    "domain": "abbvie.com"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "exchange": "NASDAQ",
+    "domain": "costco.com"
+  },
+  {
+    "ticker": "MRK",
+    "name": "Merck & Co. Inc.",
+    "exchange": "NYSE",
+    "domain": "merck.com"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "exchange": "NYSE",
+    "domain": "chevron.com"
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce Inc.",
+    "exchange": "NYSE",
+    "domain": "salesforce.com"
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "exchange": "NASDAQ",
+    "domain": "adobe.com"
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "exchange": "NYSE",
+    "domain": "accenture.com"
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices Inc.",
+    "exchange": "NASDAQ",
+    "domain": "amd.com"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo Inc.",
+    "exchange": "NASDAQ",
+    "domain": "pepsico.com"
+  },
+  {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "exchange": "NYSE",
+    "domain": "thermofisher.com"
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike Inc.",
+    "exchange": "NYSE",
+    "domain": "nike.com"
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "exchange": "NYSE",
+    "domain": "linde.com"
+  },
+  {
+    "ticker": "TM",
+    "name": "Toyota Motor Corporation",
+    "exchange": "NYSE",
+    "domain": "toyota.com"
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments Incorporated",
+    "exchange": "NASDAQ",
+    "domain": "ti.com"
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's Corporation",
+    "exchange": "NYSE",
+    "domain": "mcdonalds.com"
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco Systems Inc.",
+    "exchange": "NASDAQ",
+    "domain": "cisco.com"
+  },
+  {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "exchange": "NYSE",
+    "domain": "abbott.com"
+  },
+  {
+    "ticker": "DHR",
+    "name": "Danaher Corporation",
+    "exchange": "NYSE",
+    "domain": "danaher.com"
+  },
+  {
+    "ticker": "WFC",
+    "name": "Wells Fargo & Company",
+    "exchange": "NYSE",
+    "domain": "wellsfargo.com"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel Corporation",
+    "exchange": "NASDAQ",
+    "domain": "intel.com"
+  },
+  {
+    "ticker": "QCOM",
+    "name": "Qualcomm Incorporated",
+    "exchange": "NASDAQ",
+    "domain": "qualcomm.com"
+  },
+  {
+    "ticker": "GE",
+    "name": "General Electric Company",
+    "exchange": "NYSE",
+    "domain": "ge.com"
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "exchange": "NASDAQ",
+    "domain": "amgen.com"
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell International Inc.",
+    "exchange": "NASDAQ",
+    "domain": "honeywell.com"
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit Inc.",
+    "exchange": "NASDAQ",
+    "domain": "intuit.com"
+  },
+  {
+    "ticker": "IBM",
+    "name": "International Business Machines",
+    "exchange": "NYSE",
+    "domain": "ibm.com"
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's Companies Inc.",
+    "exchange": "NYSE",
+    "domain": "lowes.com"
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc.",
+    "exchange": "NYSE",
+    "domain": "caterpillar.com"
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris International Inc.",
+    "exchange": "NYSE",
+    "domain": "pmi.com"
+  },
+  {
+    "ticker": "VZ",
+    "name": "Verizon Communications Inc.",
+    "exchange": "NYSE",
+    "domain": "verizon.com"
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks Corporation",
+    "exchange": "NASDAQ",
+    "domain": "starbucks.com"
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "exchange": "NYSE",
+    "domain": "morganstanley.com"
+  },
+  {
+    "ticker": "BLK",
+    "name": "BlackRock Inc.",
+    "exchange": "NYSE",
+    "domain": "blackrock.com"
+  },
+  {
+    "ticker": "RTX",
+    "name": "RTX Corporation",
+    "exchange": "NYSE",
+    "domain": "rtx.com"
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs Group Inc.",
+    "exchange": "NYSE",
+    "domain": "goldmansachs.com"
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer Inc.",
+    "exchange": "NYSE",
+    "domain": "pfizer.com"
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney Company",
+    "exchange": "NYSE",
+    "domain": "disney.com"
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T Inc.",
+    "exchange": "NYSE",
+    "domain": "att.com"
+  },
+  {
+    "ticker": "C",
+    "name": "Citigroup Inc.",
+    "exchange": "NYSE",
+    "domain": "citigroup.com"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix Inc.",
+    "exchange": "NASDAQ",
+    "domain": "netflix.com"
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal Holdings Inc.",
+    "exchange": "NASDAQ",
+    "domain": "paypal.com"
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing Inc.",
+    "exchange": "NASDAQ",
+    "domain": "adp.com"
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic plc",
+    "exchange": "NYSE",
+    "domain": "medtronic.com"
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "exchange": "NASDAQ",
+    "domain": "bookingholdings.com"
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow Inc.",
+    "exchange": "NYSE",
+    "domain": "servicenow.com"
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber Technologies Inc.",
+    "exchange": "NYSE",
+    "domain": "uber.com"
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research Corporation",
+    "exchange": "NASDAQ",
+    "domain": "lamresearch.com"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology Inc.",
+    "exchange": "NASDAQ",
+    "domain": "micron.com"
+  },
+  {
+    "ticker": "SNOW",
+    "name": "Snowflake Inc.",
+    "exchange": "NYSE",
+    "domain": "snowflake.com"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "exchange": "NYSE",
+    "domain": "palantir.com"
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase Global Inc.",
+    "exchange": "NASDAQ",
+    "domain": "coinbase.com"
+  },
+  {
+    "ticker": "ZM",
+    "name": "Zoom Video Communications Inc.",
+    "exchange": "NASDAQ",
+    "domain": "zoom.us"
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify Inc.",
+    "exchange": "NYSE",
+    "domain": "shopify.com"
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings Inc.",
+    "exchange": "NASDAQ",
+    "domain": "crowdstrike.com"
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog Inc.",
+    "exchange": "NASDAQ",
+    "domain": "datadoghq.com"
+  },
+  {
+    "ticker": "NET",
+    "name": "Cloudflare Inc.",
+    "exchange": "NYSE",
+    "domain": "cloudflare.com"
+  },
+  {
+    "ticker": "TWLO",
+    "name": "Twilio Inc.",
+    "exchange": "NYSE",
+    "domain": "twilio.com"
+  },
+  {
+    "ticker": "OKTA",
+    "name": "Okta Inc.",
+    "exchange": "NASDAQ",
+    "domain": "okta.com"
+  },
+  {
+    "ticker": "DOCU",
+    "name": "DocuSign Inc.",
+    "exchange": "NASDAQ",
+    "domain": "docusign.com"
+  },
+  {
+    "ticker": "MDB",
+    "name": "MongoDB Inc.",
+    "exchange": "NASDAQ",
+    "domain": "mongodb.com"
+  },
+  {
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "exchange": "NASDAQ",
+    "domain": "atlassian.com"
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet Inc.",
+    "exchange": "NASDAQ",
+    "domain": "fortinet.com"
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks Inc.",
+    "exchange": "NASDAQ",
+    "domain": "paloaltonetworks.com"
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler Inc.",
+    "exchange": "NASDAQ",
+    "domain": "zscaler.com"
+  },
+  {
+    "ticker": "S",
+    "name": "SentinelOne Inc.",
+    "exchange": "NYSE",
+    "domain": "sentinelone.com"
+  },
+  {
+    "ticker": "RBLX",
+    "name": "Roblox Corporation",
+    "exchange": "NYSE",
+    "domain": "roblox.com"
+  },
+  {
+    "ticker": "U",
+    "name": "Unity Software Inc.",
+    "exchange": "NYSE",
+    "domain": "unity.com"
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood Markets Inc.",
+    "exchange": "NASDAQ",
+    "domain": "robinhood.com"
+  },
+  {
+    "ticker": "SOFI",
+    "name": "SoFi Technologies Inc.",
+    "exchange": "NASDAQ",
+    "domain": "sofi.com"
+  },
+  {
+    "ticker": "AFRM",
+    "name": "Affirm Holdings Inc.",
+    "exchange": "NASDAQ",
+    "domain": "affirm.com"
+  },
+  {
+    "ticker": "UPST",
+    "name": "Upstart Holdings Inc.",
+    "exchange": "NASDAQ",
+    "domain": "upstart.com"
+  },
+  {
+    "ticker": "RIOT",
+    "name": "Riot Platforms Inc.",
+    "exchange": "NASDAQ",
+    "domain": "riot.com"
+  },
+  {
+    "ticker": "MARA",
+    "name": "Marathon Digital Holdings Inc.",
+    "exchange": "NASDAQ",
+    "domain": "marathon.com"
+  },
+  {
+    "ticker": "ARM",
+    "name": "ARM Holdings plc",
+    "exchange": "NASDAQ",
+    "domain": "arm.com"
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Super Micro Computer Inc.",
+    "exchange": "NASDAQ",
+    "domain": "supermicro.com"
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "exchange": "NYSE",
+    "domain": "dell.com"
+  },
+  {
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "exchange": "NYSE",
+    "domain": "hp.com"
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lennar Corporation",
+    "exchange": "NYSE",
+    "domain": "lennar.com"
+  },
+  {
+    "ticker": "DHI",
+    "name": "D.R. Horton Inc.",
+    "exchange": "NYSE",
+    "domain": "drhorton.com"
+  },
+  {
+    "ticker": "PHM",
+    "name": "PulteGroup Inc.",
+    "exchange": "NYSE",
+    "domain": "pultegroup.com"
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile US Inc.",
+    "exchange": "NASDAQ",
+    "domain": "t-mobile.com"
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast Corporation",
+    "exchange": "NASDAQ",
+    "domain": "comcastcorporation.com"
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter Communications Inc.",
+    "exchange": "NASDAQ",
+    "domain": "charter.com"
+  },
+  {
+    "ticker": "PARA",
+    "name": "Paramount Global",
+    "exchange": "NASDAQ",
+    "domain": "paramount.com"
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery Inc.",
+    "exchange": "NASDAQ",
+    "domain": "wbd.com"
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox Corporation Class A",
+    "exchange": "NASDAQ",
+    "domain": "foxcorporation.com"
+  },
+  {
+    "ticker": "NYT",
+    "name": "New York Times Company",
+    "exchange": "NYSE",
+    "domain": "nytimes.com"
+  },
+  {
+    "ticker": "DJT",
+    "name": "Trump Media & Technology Group",
+    "exchange": "NASDAQ",
+    "domain": "tmtgcorp.com"
+  },
+  {
+    "ticker": "BMBL",
+    "name": "Bumble Inc.",
+    "exchange": "NASDAQ",
+    "domain": "bumble.com"
+  },
+  {
+    "ticker": "MTCH",
+    "name": "Match Group Inc.",
+    "exchange": "NASDAQ",
+    "domain": "matchgroup.com"
+  },
+  {
+    "ticker": "PINS",
+    "name": "Pinterest Inc.",
+    "exchange": "NYSE",
+    "domain": "pinterest.com"
+  },
+  {
+    "ticker": "SNAP",
+    "name": "Snap Inc.",
+    "exchange": "NYSE",
+    "domain": "snap.com"
+  },
+  {
+    "ticker": "PTON",
+    "name": "Peloton Interactive Inc.",
+    "exchange": "NASDAQ",
+    "domain": "onepeloton.com"
+  },
+  {
+    "ticker": "LULU",
+    "name": "Lululemon Athletica Inc.",
+    "exchange": "NASDAQ",
+    "domain": "lululemon.com"
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers Outdoor Corporation",
+    "exchange": "NYSE",
+    "domain": "deckers.com"
+  },
+  {
+    "ticker": "VFC",
+    "name": "VF Corporation",
+    "exchange": "NYSE",
+    "domain": "vfc.com"
+  },
+  {
+    "ticker": "RL",
+    "name": "Ralph Lauren Corporation",
+    "exchange": "NYSE",
+    "domain": "ralphlauren.com"
+  },
+  {
+    "ticker": "TPR",
+    "name": "Tapestry Inc.",
+    "exchange": "NYSE",
+    "domain": "tapestry.com"
+  },
+  {
+    "ticker": "PVH",
+    "name": "PVH Corp.",
+    "exchange": "NYSE",
+    "domain": "pvh.com"
+  },
+  {
+    "ticker": "LEVI",
+    "name": "Levi Strauss & Co.",
+    "exchange": "NYSE",
+    "domain": "levistrauss.com"
+  },
+  {
+    "ticker": "CROX",
+    "name": "Crocs Inc.",
+    "exchange": "NASDAQ",
+    "domain": "crocs.com"
+  },
+  {
+    "ticker": "SKX",
+    "name": "Skechers U.S.A. Inc.",
+    "exchange": "NYSE",
+    "domain": "skechers.com"
+  },
+  {
+    "ticker": "UA",
+    "name": "Under Armour Inc.",
+    "exchange": "NYSE",
+    "domain": "underarmour.com"
+  },
+  {
+    "ticker": "HBI",
+    "name": "Hanesbrands Inc.",
+    "exchange": "NYSE",
+    "domain": "hanesbrands.com"
+  },
+  {
+    "ticker": "GIL",
+    "name": "Gildan Activewear Inc.",
+    "exchange": "NYSE",
+    "domain": "gildan.com"
+  },
+  {
+    "ticker": "EL",
+    "name": "Est\u00e9e Lauder Companies Inc.",
+    "exchange": "NYSE",
+    "domain": "estee.com"
+  },
+  {
+    "ticker": "COTY",
+    "name": "Coty Inc.",
+    "exchange": "NYSE",
+    "domain": "coty.com"
+  },
+  {
+    "ticker": "ELF",
+    "name": "e.l.f. Beauty Inc.",
+    "exchange": "NYSE",
+    "domain": "elfcosmetics.com"
+  },
+  {
+    "ticker": "ULTA",
+    "name": "Ulta Beauty Inc.",
+    "exchange": "NASDAQ",
+    "domain": "ulta.com"
+  },
+  {
+    "ticker": "BBWI",
+    "name": "Bath & Body Works Inc.",
+    "exchange": "NYSE",
+    "domain": "bathandbodyworks.com"
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hasbro Inc.",
+    "exchange": "NASDAQ",
+    "domain": "hasbro.com"
+  },
+  {
+    "ticker": "MAT",
+    "name": "Mattel Inc.",
+    "exchange": "NASDAQ",
+    "domain": "mattel.com"
+  },
+  {
+    "ticker": "GPRO",
+    "name": "GoPro Inc.",
+    "exchange": "NASDAQ",
+    "domain": "gopro.com"
+  },
+  {
+    "ticker": "LOGI",
+    "name": "Logitech International S.A.",
+    "exchange": "NASDAQ",
+    "domain": "logitech.com"
+  },
+  {
+    "ticker": "SPOT",
+    "name": "Spotify Technology S.A.",
+    "exchange": "NYSE",
+    "domain": "spotify.com"
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash Inc.",
+    "exchange": "NASDAQ",
+    "domain": "doordash.com"
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb Inc.",
+    "exchange": "NASDAQ",
+    "domain": "airbnb.com"
+  },
+  {
+    "ticker": "EXPE",
+    "name": "Expedia Group Inc.",
+    "exchange": "NASDAQ",
+    "domain": "expediagroup.com"
+  },
+  {
+    "ticker": "TRIP",
+    "name": "TripAdvisor Inc.",
+    "exchange": "NASDAQ",
+    "domain": "tripadvisor.com"
+  },
+  {
+    "ticker": "LYFT",
+    "name": "Lyft Inc.",
+    "exchange": "NASDAQ",
+    "domain": "lyft.com"
+  },
+  {
+    "ticker": "GRAB",
+    "name": "Grab Holdings Limited",
+    "exchange": "NASDAQ",
+    "domain": "grab.com"
+  },
+  {
+    "ticker": "BIDU",
+    "name": "Baidu Inc.",
+    "exchange": "NASDAQ",
+    "domain": "baidu.com"
+  },
+  {
+    "ticker": "BABA",
+    "name": "Alibaba Group Holding Limited",
+    "exchange": "NYSE",
+    "domain": "alibaba.com"
+  },
+  {
+    "ticker": "JD",
+    "name": "JD.com Inc.",
+    "exchange": "NASDAQ",
+    "domain": "jd.com"
+  },
+  {
+    "ticker": "PDD",
+    "name": "PDD Holdings Inc.",
+    "exchange": "NASDAQ",
+    "domain": "pdd.com"
+  },
+  {
+    "ticker": "NIO",
+    "name": "NIO Inc.",
+    "exchange": "NYSE",
+    "domain": "nio.com"
+  },
+  {
+    "ticker": "XPEV",
+    "name": "XPeng Inc.",
+    "exchange": "NYSE",
+    "domain": "xpeng.com"
+  },
+  {
+    "ticker": "LI",
+    "name": "Li Auto Inc.",
+    "exchange": "NASDAQ",
+    "domain": "lixiang.com"
+  },
+  {
+    "ticker": "BYDDF",
+    "name": "BYD Company Limited",
+    "exchange": "OTC",
+    "domain": "byd.com"
+  },
+  {
+    "ticker": "TCEHY",
+    "name": "Tencent Holdings Limited",
+    "exchange": "OTC",
+    "domain": "tencent.com"
+  },
+  {
+    "ticker": "NTES",
+    "name": "NetEase Inc.",
+    "exchange": "NASDAQ",
+    "domain": "netease.com"
+  },
+  {
+    "ticker": "FUTU",
+    "name": "Futu Holdings Limited",
+    "exchange": "NASDAQ",
+    "domain": "futunn.com"
+  },
+  {
+    "ticker": "TIGR",
+    "name": "UP Fintech Holding Limited",
+    "exchange": "NASDAQ",
+    "domain": "itiger.com"
+  },
+  {
+    "ticker": "KHC",
+    "name": "Kraft Heinz Company",
+    "exchange": "NASDAQ",
+    "domain": "kraftheinzcompany.com"
+  },
+  {
+    "ticker": "GIS",
+    "name": "General Mills Inc.",
+    "exchange": "NYSE",
+    "domain": "generalmills.com"
+  },
+  {
+    "ticker": "K",
+    "name": "Kellanova",
+    "exchange": "NYSE",
+    "domain": "kellanova.com"
+  },
+  {
+    "ticker": "CPB",
+    "name": "Campbell Soup Company",
+    "exchange": "NYSE",
+    "domain": "campbellsoup.com"
+  },
+  {
+    "ticker": "CAG",
+    "name": "Conagra Brands Inc.",
+    "exchange": "NYSE",
+    "domain": "conagrabrands.com"
+  },
+  {
+    "ticker": "SJM",
+    "name": "J.M. Smucker Company",
+    "exchange": "NYSE",
+    "domain": "jmsmucker.com"
+  },
+  {
+    "ticker": "HSY",
+    "name": "Hershey Company",
+    "exchange": "NYSE",
+    "domain": "thehersheycompany.com"
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International Inc.",
+    "exchange": "NASDAQ",
+    "domain": "mondelezinternational.com"
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage Corporation",
+    "exchange": "NASDAQ",
+    "domain": "monsterbevcorp.com"
+  },
+  {
+    "ticker": "CELH",
+    "name": "Celsius Holdings Inc.",
+    "exchange": "NASDAQ",
+    "domain": "celsius.com"
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper Inc.",
+    "exchange": "NASDAQ",
+    "domain": "keurigdrpepper.com"
+  },
+  {
+    "ticker": "STZ",
+    "name": "Constellation Brands Inc.",
+    "exchange": "NYSE",
+    "domain": "cbrands.com"
+  },
+  {
+    "ticker": "DEO",
+    "name": "Diageo plc",
+    "exchange": "NYSE",
+    "domain": "diageo.com"
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria Group Inc.",
+    "exchange": "NYSE",
+    "domain": "altria.com"
+  },
+  {
+    "ticker": "BTI",
+    "name": "British American Tobacco p.l.c.",
+    "exchange": "NYSE",
+    "domain": "bat.com"
+  },
+  {
+    "ticker": "TPG",
+    "name": "TPG Inc.",
+    "exchange": "NASDAQ",
+    "domain": "tpg.com"
+  },
+  {
+    "ticker": "KKR",
+    "name": "KKR & Co. Inc.",
+    "exchange": "NYSE",
+    "domain": "kkr.com"
+  },
+  {
+    "ticker": "BX",
+    "name": "Blackstone Inc.",
+    "exchange": "NYSE",
+    "domain": "blackstone.com"
+  },
+  {
+    "ticker": "CG",
+    "name": "Carlyle Group Inc.",
+    "exchange": "NASDAQ",
+    "domain": "carlyle.com"
+  },
+  {
+    "ticker": "ARES",
+    "name": "Ares Management Corporation",
+    "exchange": "NYSE",
+    "domain": "aresmgmt.com"
+  },
+  {
+    "ticker": "APO",
+    "name": "Apollo Global Management Inc.",
+    "exchange": "NYSE",
+    "domain": "apollo.com"
+  },
+  {
+    "ticker": "STT",
+    "name": "State Street Corporation",
+    "exchange": "NYSE",
+    "domain": "statestreet.com"
+  },
+  {
+    "ticker": "NTRS",
+    "name": "Northern Trust Corporation",
+    "exchange": "NASDAQ",
+    "domain": "northerntrust.com"
+  },
+  {
+    "ticker": "BK",
+    "name": "Bank of New York Mellon Corporation",
+    "exchange": "NYSE",
+    "domain": "bnymellon.com"
+  },
+  {
+    "ticker": "TROW",
+    "name": "T. Rowe Price Group Inc.",
+    "exchange": "NASDAQ",
+    "domain": "troweprice.com"
+  },
+  {
+    "ticker": "IVZ",
+    "name": "Invesco Ltd.",
+    "exchange": "NYSE",
+    "domain": "invesco.com"
+  },
+  {
+    "ticker": "BEN",
+    "name": "Franklin Resources Inc.",
+    "exchange": "NYSE",
+    "domain": "franklinresources.com"
+  },
+  {
+    "ticker": "SEIC",
+    "name": "SEI Investments Company",
+    "exchange": "NASDAQ",
+    "domain": "seic.com"
+  },
+  {
+    "ticker": "EVR",
+    "name": "Evercore Inc.",
+    "exchange": "NYSE",
+    "domain": "evercore.com"
+  },
+  {
+    "ticker": "PJT",
+    "name": "PJT Partners Inc.",
+    "exchange": "NYSE",
+    "domain": "pjtpartners.com"
+  },
+  {
+    "ticker": "MC",
+    "name": "Moelis & Company",
+    "exchange": "NYSE",
+    "domain": "moelis.com"
+  },
+  {
+    "ticker": "LAZ",
+    "name": "Lazard Inc.",
+    "exchange": "NYSE",
+    "domain": "lazard.com"
+  },
+  {
+    "ticker": "USB",
+    "name": "U.S. Bancorp",
+    "exchange": "NYSE",
+    "domain": "usbank.com"
+  },
+  {
+    "ticker": "PNC",
+    "name": "PNC Financial Services Group Inc.",
+    "exchange": "NYSE",
+    "domain": "pnc.com"
+  },
+  {
+    "ticker": "TFC",
+    "name": "Truist Financial Corporation",
+    "exchange": "NYSE",
+    "domain": "truist.com"
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One Financial Corporation",
+    "exchange": "NYSE",
+    "domain": "capitalone.com"
+  },
+  {
+    "ticker": "SCHW",
+    "name": "Charles Schwab Corporation",
+    "exchange": "NYSE",
+    "domain": "schwab.com"
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers Group Inc.",
+    "exchange": "NASDAQ",
+    "domain": "interactivebrokers.com"
+  },
+  {
+    "ticker": "ALLY",
+    "name": "Ally Financial Inc.",
+    "exchange": "NYSE",
+    "domain": "ally.com"
+  },
+  {
+    "ticker": "DFS",
+    "name": "Discover Financial Services",
+    "exchange": "NYSE",
+    "domain": "discover.com"
+  },
+  {
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "exchange": "NYSE",
+    "domain": "synchrony.com"
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express Company",
+    "exchange": "NYSE",
+    "domain": "americanexpress.com"
+  },
+  {
+    "ticker": "SLM",
+    "name": "SLM Corporation",
+    "exchange": "NASDAQ",
+    "domain": "salliemae.com"
+  },
+  {
+    "ticker": "NAVI",
+    "name": "Navient Corporation",
+    "exchange": "NASDAQ",
+    "domain": "navient.com"
+  },
+  {
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "exchange": "NYSE",
+    "domain": "ford.com"
+  },
+  {
+    "ticker": "GM",
+    "name": "General Motors Company",
+    "exchange": "NYSE",
+    "domain": "gm.com"
+  },
+  {
+    "ticker": "STLA",
+    "name": "Stellantis N.V.",
+    "exchange": "NYSE",
+    "domain": "stellantis.com"
+  },
+  {
+    "ticker": "HMC",
+    "name": "Honda Motor Co. Ltd.",
+    "exchange": "NYSE",
+    "domain": "honda.com"
+  },
+  {
+    "ticker": "RACE",
+    "name": "Ferrari N.V.",
+    "exchange": "NYSE",
+    "domain": "ferrari.com"
+  },
+  {
+    "ticker": "RIVN",
+    "name": "Rivian Automotive Inc.",
+    "exchange": "NASDAQ",
+    "domain": "rivian.com"
+  },
+  {
+    "ticker": "LCID",
+    "name": "Lucid Group Inc.",
+    "exchange": "NASDAQ",
+    "domain": "lucidmotors.com"
+  },
+  {
+    "ticker": "PSNY",
+    "name": "Polestar Automotive Holding UK PLC",
+    "exchange": "NASDAQ",
+    "domain": "polestar.com"
+  },
+  {
+    "ticker": "FSR",
+    "name": "Fisker Inc.",
+    "exchange": "NYSE",
+    "domain": "fiskerinc.com"
+  },
+  {
+    "ticker": "WKHS",
+    "name": "Workhorse Group Inc.",
+    "exchange": "NASDAQ",
+    "domain": "workhorse.com"
+  },
+  {
+    "ticker": "BLNK",
+    "name": "Blink Charging Co.",
+    "exchange": "NASDAQ",
+    "domain": "blinkcharging.com"
+  },
+  {
+    "ticker": "CHPT",
+    "name": "ChargePoint Holdings Inc.",
+    "exchange": "NYSE",
+    "domain": "chargepoint.com"
+  },
+  {
+    "ticker": "EVGO",
+    "name": "EVgo Inc.",
+    "exchange": "NASDAQ",
+    "domain": "evgo.com"
+  },
+  {
+    "ticker": "SPWR",
+    "name": "SunPower Corporation",
+    "exchange": "NASDAQ",
+    "domain": "sunpower.com"
+  },
+  {
+    "ticker": "ENPH",
+    "name": "Enphase Energy Inc.",
+    "exchange": "NASDAQ",
+    "domain": "enphase.com"
+  },
+  {
+    "ticker": "SEDG",
+    "name": "SolarEdge Technologies Inc.",
+    "exchange": "NASDAQ",
+    "domain": "solaredge.com"
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar Inc.",
+    "exchange": "NASDAQ",
+    "domain": "firstsolar.com"
+  },
+  {
+    "ticker": "RUN",
+    "name": "Sunrun Inc.",
+    "exchange": "NASDAQ",
+    "domain": "sunrun.com"
+  },
+  {
+    "ticker": "NOVA",
+    "name": "Sunnova Energy International Inc.",
+    "exchange": "NYSE",
+    "domain": "sunnova.com"
+  },
+  {
+    "ticker": "BE",
+    "name": "Bloom Energy Corporation",
+    "exchange": "NYSE",
+    "domain": "bloomenergy.com"
+  },
+  {
+    "ticker": "PLUG",
+    "name": "Plug Power Inc.",
+    "exchange": "NASDAQ",
+    "domain": "plugpower.com"
+  },
+  {
+    "ticker": "BLDP",
+    "name": "Ballard Power Systems Inc.",
+    "exchange": "NASDAQ",
+    "domain": "ballard.com"
+  },
+  {
+    "ticker": "FCEL",
+    "name": "FuelCell Energy Inc.",
+    "exchange": "NASDAQ",
+    "domain": "fuelcellenergy.com"
+  },
+  {
+    "ticker": "NKLA",
+    "name": "Nikola Corporation",
+    "exchange": "NASDAQ",
+    "domain": "nikolamotor.com"
+  },
+  {
+    "ticker": "BIIB",
+    "name": "Biogen Inc.",
+    "exchange": "NASDAQ",
+    "domain": "biogen.com"
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences Inc.",
+    "exchange": "NASDAQ",
+    "domain": "gilead.com"
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals Inc.",
+    "exchange": "NASDAQ",
+    "domain": "regeneron.com"
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals Incorporated",
+    "exchange": "NASDAQ",
+    "domain": "vrtx.com"
+  },
+  {
+    "ticker": "ALNY",
+    "name": "Alnylam Pharmaceuticals Inc.",
+    "exchange": "NASDAQ",
+    "domain": "alnylam.com"
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna Inc.",
+    "exchange": "NASDAQ",
+    "domain": "modernatx.com"
+  },
+  {
+    "ticker": "BNTX",
+    "name": "BioNTech SE",
+    "exchange": "NASDAQ",
+    "domain": "biontech.com"
+  },
+  {
+    "ticker": "NVAX",
+    "name": "Novavax Inc.",
+    "exchange": "NASDAQ",
+    "domain": "novavax.com"
+  },
+  {
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "exchange": "NASDAQ",
+    "domain": "incyte.com"
+  },
+  {
+    "ticker": "EXEL",
+    "name": "Exelixis Inc.",
+    "exchange": "NASDAQ",
+    "domain": "exelixis.com"
+  },
+  {
+    "ticker": "SGEN",
+    "name": "Seagen Inc.",
+    "exchange": "NASDAQ",
+    "domain": "seagen.com"
+  },
+  {
+    "ticker": "ARWR",
+    "name": "Arrowhead Pharmaceuticals Inc.",
+    "exchange": "NASDAQ",
+    "domain": "arrowheadpharma.com"
+  },
+  {
+    "ticker": "IONS",
+    "name": "Ionis Pharmaceuticals Inc.",
+    "exchange": "NASDAQ",
+    "domain": "ionispharma.com"
+  },
+  {
+    "ticker": "SRPT",
+    "name": "Sarepta Therapeutics Inc.",
+    "exchange": "NASDAQ",
+    "domain": "sarepta.com"
+  },
+  {
+    "ticker": "FOLD",
+    "name": "Amicus Therapeutics Inc.",
+    "exchange": "NASDAQ",
+    "domain": "amicusrx.com"
+  },
+  {
+    "ticker": "BCRX",
+    "name": "BioCryst Pharmaceuticals Inc.",
+    "exchange": "NASDAQ",
+    "domain": "biocryst.com"
+  },
+  {
+    "ticker": "ACAD",
+    "name": "ACADIA Pharmaceuticals Inc.",
+    "exchange": "NASDAQ",
+    "domain": "acadia.com"
+  },
+  {
+    "ticker": "NBIX",
+    "name": "Neurocrine Biosciences Inc.",
+    "exchange": "NASDAQ",
+    "domain": "neurocrine.com"
+  },
+  {
+    "ticker": "SAGE",
+    "name": "Sage Therapeutics Inc.",
+    "exchange": "NASDAQ",
+    "domain": "sagerx.com"
+  },
+  {
+    "ticker": "PTCT",
+    "name": "PTC Therapeutics Inc.",
+    "exchange": "NASDAQ",
+    "domain": "ptcbio.com"
+  },
+  {
+    "ticker": "RARE",
+    "name": "Ultragenyx Pharmaceutical Inc.",
+    "exchange": "NASDAQ",
+    "domain": "ultragenyx.com"
+  },
+  {
+    "ticker": "BMRN",
+    "name": "BioMarin Pharmaceutical Inc.",
+    "exchange": "NASDAQ",
+    "domain": "biomarin.com"
+  },
+  {
+    "ticker": "HALO",
+    "name": "Halozyme Therapeutics Inc.",
+    "exchange": "NASDAQ",
+    "domain": "halozyme.com"
+  },
+  {
+    "ticker": "ARVN",
+    "name": "Arvinas Inc.",
+    "exchange": "NASDAQ",
+    "domain": "arvinas.com"
+  },
+  {
+    "ticker": "KURA",
+    "name": "Kura Oncology Inc.",
+    "exchange": "NASDAQ",
+    "domain": "kuraoncology.com"
+  },
+  {
+    "ticker": "FATE",
+    "name": "Fate Therapeutics Inc.",
+    "exchange": "NASDAQ",
+    "domain": "fatetherapeutics.com"
+  },
+  {
+    "ticker": "NVTA",
+    "name": "Invitae Corporation",
+    "exchange": "NYSE",
+    "domain": "invitae.com"
+  },
+  {
+    "ticker": "GH",
+    "name": "Guardant Health Inc.",
+    "exchange": "NASDAQ",
+    "domain": "guardanthealth.com"
+  },
+  {
+    "ticker": "EXAS",
+    "name": "Exact Sciences Corporation",
+    "exchange": "NASDAQ",
+    "domain": "exactsciences.com"
+  },
+  {
+    "ticker": "MYGN",
+    "name": "Myriad Genetics Inc.",
+    "exchange": "NASDAQ",
+    "domain": "myriad.com"
+  },
+  {
+    "ticker": "PACB",
+    "name": "Pacific Biosciences of California Inc.",
+    "exchange": "NASDAQ",
+    "domain": "pacb.com"
+  },
+  {
+    "ticker": "TWST",
+    "name": "Twist Bioscience Corporation",
+    "exchange": "NASDAQ",
+    "domain": "twistbioscience.com"
+  },
+  {
+    "ticker": "DNA",
+    "name": "Ginkgo Bioworks Holdings Inc.",
+    "exchange": "NYSE",
+    "domain": "ginkgobioworks.com"
+  },
+  {
+    "ticker": "SG",
+    "name": "Sweetgreen Inc.",
+    "exchange": "NYSE",
+    "domain": "sweetgreen.com"
+  },
+  {
+    "ticker": "BYND",
+    "name": "Beyond Meat Inc.",
+    "exchange": "NASDAQ",
+    "domain": "beyondmeat.com"
+  },
+  {
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill Inc.",
+    "exchange": "NYSE",
+    "domain": "chipotle.com"
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands Inc.",
+    "exchange": "NYSE",
+    "domain": "yum.com"
+  },
+  {
+    "ticker": "QSR",
+    "name": "Restaurant Brands International Inc.",
+    "exchange": "NYSE",
+    "domain": "rbi.com"
+  },
+  {
+    "ticker": "WEN",
+    "name": "Wendy's Company",
+    "exchange": "NASDAQ",
+    "domain": "wendys.com"
+  },
+  {
+    "ticker": "SHAK",
+    "name": "Shake Shack Inc.",
+    "exchange": "NYSE",
+    "domain": "shakeshack.com"
+  },
+  {
+    "ticker": "PZZA",
+    "name": "Papa John's International Inc.",
+    "exchange": "NASDAQ",
+    "domain": "papajohns.com"
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Domino's Pizza Inc.",
+    "exchange": "NYSE",
+    "domain": "dominos.com"
+  },
+  {
+    "ticker": "FRSH",
+    "name": "Freshworks Inc.",
+    "exchange": "NASDAQ",
+    "domain": "freshworks.com"
+  },
+  {
+    "ticker": "MNDY",
+    "name": "monday.com Ltd.",
+    "exchange": "NASDAQ",
+    "domain": "monday.com"
+  },
+  {
+    "ticker": "ASAN",
+    "name": "Asana Inc.",
+    "exchange": "NYSE",
+    "domain": "asana.com"
+  },
+  {
+    "ticker": "SMAR",
+    "name": "Smartsheet Inc.",
+    "exchange": "NYSE",
+    "domain": "smartsheet.com"
+  },
+  {
+    "ticker": "WVE",
+    "name": "Wave Life Sciences Ltd.",
+    "exchange": "NASDAQ",
+    "domain": "wavelifesciences.com"
+  },
+  {
+    "ticker": "EDIT",
+    "name": "Editas Medicine Inc.",
+    "exchange": "NASDAQ",
+    "domain": "editasmedicine.com"
+  },
+  {
+    "ticker": "NTLA",
+    "name": "Intellia Therapeutics Inc.",
+    "exchange": "NASDAQ",
+    "domain": "intelliatx.com"
+  },
+  {
+    "ticker": "CRSP",
+    "name": "CRISPR Therapeutics AG",
+    "exchange": "NASDAQ",
+    "domain": "crisprtx.com"
+  },
+  {
+    "ticker": "BEAM",
+    "name": "Beam Therapeutics Inc.",
+    "exchange": "NASDAQ",
+    "domain": "beamtx.com"
+  },
+  {
+    "ticker": "BLUE",
+    "name": "bluebird bio Inc.",
+    "exchange": "NASDAQ",
+    "domain": "bluebirdbio.com"
+  }
+]
