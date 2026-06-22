@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-base: #0B0B0C;
+  --bg-surface: #121214;
+  --bg-surface-raised: #16181B;
+  --border-subtle: rgba(255,255,255,0.07);
+  --text-primary: #F5F5F7;
+  --text-secondary: #9A9CA3;
+  --text-tertiary: #6B6D74;
+  --accent-emerald: #34D399;
+  --accent-crimson: #F87171;
+  --accent-blue: #5E9EFF;
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 20px;
+  --radius-xl: 24px;
+  --shadow-card: 0 8px 30px rgba(0,0,0,0.35);
+  --shadow-card-hover: 0 16px 40px rgba(0,0,0,0.45);
+  --shadow-glass: 0 4px 24px rgba(0,0,0,0.25);
+}
+
+@layer base {
+  body {
+    @apply bg-background text-text-primary antialiased;
+    font-feature-settings: "tnum" on, "lnum" on;
+  }
+
+  ::selection {
+    background: rgba(94, 158, 255, 0.3);
+  }
+}
+
+@layer components {
+  .glass {
+    background: rgba(255,255,255,0.04);
+    backdrop-filter: blur(20px) saturate(140%);
+    -webkit-backdrop-filter: blur(20px) saturate(140%);
+    border: 1px solid var(--border-subtle);
+  }
+
+  .card-base {
+    @apply bg-surface rounded-lg border border-border shadow-card;
+  }
+
+  .card-hover {
+    @apply transition-all duration-200 ease-out hover:shadow-card-hover hover:-translate-y-0.5;
+  }
+
+  .shimmer {
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.06), transparent);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
