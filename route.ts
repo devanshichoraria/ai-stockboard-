@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server"
 import { generateStructuredJSON } from "@/lib/api/openrouter"
-import { buildLastMonthPrompt } from "@/lib/prompts/lastMonth"
-import { getCompanyNews, getStockCandles, getRangeConfig } from "@/lib/api/finnhub"
+import { buildBullBearPrompt } from "@/lib/prompts/bullBear"
+import { getCompanyProfile, getBasicFinancials, getCompanyNews } from "@/lib/api/finnhub"
 import { apiCache, getCacheKey } from "@/lib/cache"
 
 export async function GET(
@@ -10,7 +10,7 @@ export async function GET(
 ) {
   try {
     const { ticker } = params
-    const cacheKey = getCacheKey("ai-lastmonth", ticker)
+    const cacheKey = getCacheKey("ai-bullbear", ticker)
 
     const cached = apiCache.get(cacheKey)
     if (cached) {
@@ -21,28 +21,26 @@ export async function GET(
     const to = now.toISOString().split("T")[0]
     const from = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000).toISOString().split("T")[0]
 
-    const [news, history] = await Promise.all([
+    const [profile, metrics, news] = await Promise.all([
+      getCompanyProfile(ticker).catch(() => null),
+      getBasicFinancials(ticker).catch(() => null),
       getCompanyNews(ticker, from, to).catch(() => []),
-      getStockCandles(ticker, "D", Math.floor(Date.now() / 1000) - 2592000, Math.floor(Date.now() / 1000)).catch(() => null),
     ])
 
-    let priceChange = 0
-    if (history && history.c && history.c.length > 1) {
-      const first = history.c[0]
-      const last = history.c[history.c.length - 1]
-      priceChange = ((last - first) / first) * 100
+    if (!profile || !profile.name) {
+      return NextResponse.json({ error: "Company profile not available", data: null }, { status: 200 })
     }
 
-    const messages = buildLastMonthPrompt(ticker, ticker, priceChange, news || [])
+    const messages = buildBullBearPrompt(profile.name, ticker, profile, metrics, news || [])
     const data = await generateStructuredJSON(messages)
 
     apiCache.set(cacheKey, data, 86400) // 24 hours
 
     return NextResponse.json({ data, cachedAt: new Date().toISOString() })
   } catch (error: any) {
-    console.error("AI LastMonth error:", error.message)
+    console.error("AI BullBear error:", error.message)
     return NextResponse.json(
-      { error: "Failed to generate last month analysis", data: null },
+      { error: "Failed to generate bull/bear analysis", data: null },
       { status: 200 }
     )
   }
